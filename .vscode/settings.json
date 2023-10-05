@@ -1,0 +1,13 @@
+{
+	"workbench.panel.defaultLocation": "right",
+	"editor.detectIndentation": false,
+	"editor.insertSpaces": false,
+	"workbench.colorTheme": "Winter is Coming (Dark Blue - No Italics)",
+<<<<<<< HEAD
+	"C_Cpp.errorSquiggles": "Disabled"
+=======
+	"files.associations": {
+		"cub3d.h": "c"
+	}
+>>>>>>> 4ee3b4756f31b89de4a491ea627decb96a3df59b
+}
